@@ -63,3 +63,23 @@ img{
   align:left;
   width: 150px
 }
+
+form{
+  color: white;
+}
+
+#klik {color: white;
+text-decoration: underline;
+text-decoration-color: white;
+display: block;
+padding: 0px 0px 5px 0px;
+}
+
+#Login{
+  float: right;
+  font-size: 25px;
+}
+
+#LoginNaam{
+font-size: 20px;
+}
