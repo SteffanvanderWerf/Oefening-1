@@ -59,13 +59,12 @@ h3{
   font-size: 50px;
 }
 
-img{
-  align:left;
-  width: 150px
+
 }
 
 form{
   color: white;
+
 }
 
 #klik {color: white;
@@ -82,4 +81,30 @@ padding: 0px 0px 5px 0px;
 
 #LoginNaam{
 font-size: 20px;
+}
+
+.container {
+  width: 450px;
+  clear: both;
+  text-align: left;
+
+}
+
+.container input {
+  width: 75%;
+  clear: both;
+  text-align: left;
+
+}
+
+.container form{
+  color: white;
+
+}
+
+img{
+  height: 50px;
+  width: 60px;
+float: left;
+margin-left: 10px;
 }
