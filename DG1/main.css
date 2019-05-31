@@ -1,0 +1,111 @@
+body {
+  margin:0;
+  background-image: url("achtergrond_forum.jpg");
+  background-repeat: no-repeat;
+
+
+
+ }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+p{
+  color: white;
+  font-size: 25px;
+}
+
+h1{
+  font-size: 150px;
+  color: white;
+
+}
+h2{
+color: white;
+font-size: 35px;
+}
+
+h3{
+  color: white;
+  font-size: 50px;
+}
+
+
+}
+
+form{
+  color: white;
+
+}
+
+#klik {color: white;
+text-decoration: underline;
+text-decoration-color: white;
+display: block;
+padding: 0px 0px 5px 0px;
+}
+
+#Login{
+  float: right;
+  font-size: 25px;
+}
+
+#LoginNaam{
+font-size: 20px;
+color: white;
+}
+
+.container {
+  width: 450px;
+  clear: both;
+  text-align: left;
+
+}
+
+.container input {
+  width: 75%;
+  clear: both;
+  text-align: left;
+
+}
+
+.container form{
+  color: white;
+
+}
+
+img{
+  height: 50px;
+  width: 60px;
+float: left;
+margin-left: 10px;
+}
